@@ -1,6 +1,6 @@
-##Project
+## Project
 
-Back-end project to create a mailing list 
+Back-end project to create a mailing list using:
 
 
 <p align="center">
